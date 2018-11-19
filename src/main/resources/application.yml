@@ -2,7 +2,7 @@ server:
   port: 8761
 
 spring:
-  application.name: naming-server
+  application.name: naming-server-test
 
 eureka:
   client:
